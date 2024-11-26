@@ -34,22 +34,9 @@
 		63E9B59D2CF4F160003CAA65 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		63E9B57D2CF4EF4D003CAA65 /* Exceptions for "TheLongReport-App" folder in "TheLongReport-App" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 63E9B5562CF4EF4C003CAA65 /* TheLongReport-App */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		63E9B5592CF4EF4C003CAA65 /* TheLongReport-App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				63E9B57D2CF4EF4D003CAA65 /* Exceptions for "TheLongReport-App" folder in "TheLongReport-App" target */,
-			);
 			path = "TheLongReport-App";
 			sourceTree = "<group>";
 		};
