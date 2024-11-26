@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		63E9B59E2CF4F160003CAA65 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 63E9B59D2CF4F160003CAA65 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		63E9B56C2CF4EF4D003CAA65 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		63E9B5572CF4EF4C003CAA65 /* TheLongReport-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TheLongReport-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63E9B56B2CF4EF4D003CAA65 /* TheLongReport-AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TheLongReport-AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63E9B5752CF4EF4D003CAA65 /* TheLongReport-AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TheLongReport-AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		63E9B59D2CF4F160003CAA65 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -88,6 +93,7 @@
 		63E9B54E2CF4EF4C003CAA65 = {
 			isa = PBXGroup;
 			children = (
+				63E9B59D2CF4F160003CAA65 /* .gitignore */,
 				63E9B5592CF4EF4C003CAA65 /* TheLongReport-App */,
 				63E9B56E2CF4EF4D003CAA65 /* TheLongReport-AppTests */,
 				63E9B5782CF4EF4D003CAA65 /* TheLongReport-AppUITests */,
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63E9B59E2CF4F160003CAA65 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
